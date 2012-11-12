@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Phát hành IBus BoGo Engine v1.0
+title: Phát hành IBus BoGo Engine Test 0.1.0
 tagline: 
 ---
 {% include JB/setup %}
