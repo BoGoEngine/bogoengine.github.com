@@ -27,7 +27,8 @@ License: [GNU General Public License Verion 3](http://www.gnu.org/licenses/gpl-3
 Đây là cách đơn giản nhất.
 
 * [Ubuntu](https://github.com/BoGoEngine/ibus-bogo-python/downloads)
-hoặc từ [ppa:ndtrung4419/bogo](https://launchpad.net/~ndtrung4419/+archive/bogo)
+(hoặc thêm [ppa:ndtrung4419/bogo](https://launchpad.net/~ndtrung4419/+archive/bogo)
+và cài gói ibus-bogo)
 * [Arch Linux](https://aur.archlinux.org/packages/bogo/) (đang cập nhật)
 
 ### Từ mã nguồn
