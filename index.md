@@ -5,7 +5,8 @@ tagline:
 ---
 {% include JB/setup %}
 
-Xin gửi đến các bạn sản phẩm test IBus BoGo Engine
+Nhóm phát triển xin trân trọng gửi đến các bạn sản phẩm IBus BoGo Engine
+phiên bản đầu tiên.
 
 Version: 0.1.0
 License: [GNU General Public License Verion 3](http://www.gnu.org/licenses/gpl-3.0.txt)
@@ -30,9 +31,9 @@ hoặc từ [ppa:ndtrung4419/bogo](https://launchpad.net/~ndtrung4419/+archive/b
 
 ### Từ mã nguồn
 
-IBus BoGo Engine được xây dựng dựa trên các thành phần sau, hãy chắc
-chắn rằng các thành phần này đã được cài trên máy của bạn nếu bạn cần
-cài đặt từ mã nguồn:
+IBus BoGo Engine được xây dựng có sử dụng các thành phần sau, hãy chắc
+chắn rằng các thành phần này đã được cài trên máy nếu bạn cần cài đặt
+từ mã nguồn:
 
 * ibus 1.4
 * python 2.7
