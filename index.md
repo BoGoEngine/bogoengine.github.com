@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Phát hành IBus BoGo Engine Test 0.1.0
+title: Phát hành IBus BoGo Engine 0.1.0
 tagline: 
 ---
 {% include JB/setup %}
@@ -20,6 +20,7 @@ License: [GNU General Public License Verion 3](http://www.gnu.org/licenses/gpl-3
 * Dễ dàng gõ tiếng Anh lẫn trong văn bản tiếng Việt
 
 ## Hướng dẫn cài đặt
+
 
 ### Từ gói cài đặt cho các bản phân phối Linux thông dụng
 
