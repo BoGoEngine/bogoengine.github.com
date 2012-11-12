@@ -9,7 +9,7 @@ Nhóm phát triển xin trân trọng gửi đến các bạn sản phẩm IBus 
 phiên bản đầu tiên.
 
 Version: 0.1.0
-License: [GNU General Public License Verion 3](http://www.gnu.org/licenses/gpl-3.0.txt)
+License: [GNU General Public License Version 3](http://www.gnu.org/licenses/gpl-3.0.txt)
 
 ## Tính năng
 
@@ -54,7 +54,7 @@ file ~/.profile sau đó logout và login:
     export XMODIFIERS=@im=ibus
     export QT_IM_MODULE=xim
     
-## Thông báo vấn đề:
+## Thông báo vấn đề
  
 Nếu bạn gặp bất cứ khó khăn gì hoặc có đề xuất về chức năng cho IBus
 BoGo Engine xin hãy đừng ngần ngại chia sẻ với chúng tôi tại 
@@ -63,7 +63,7 @@ BoGo Engine xin hãy đừng ngần ngại chia sẻ với chúng tôi tại
 [https://github.com/BoGoEngine/ibus-bogo-python/issues](https://github.com/BoGoEngine/ibus-bogo-python/issues)
 
 
-## Tham gia phát triển:
+## Tham gia phát triển
 
 Rất hoan nghênh các bạn đến với nhóm phát triển. Đây là nơi chúng tôi làm việc:
 
