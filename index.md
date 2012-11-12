@@ -13,13 +13,22 @@ License: [GNU General Public License Verion 3](http://www.gnu.org/licenses/gpl-3
 ## Tính năng
 
 * Kiểu gõ: Telex
-* Bảng mã: Unicode, TCVN3
+* Bảng mã: Unicode
 * Loại bỏ hoàn toàn dấu gạch chân (preedit string) so với các bộ gõ Tiếng Việt dựa trên IBus khác
 * Hỗ trợ mở rộng các kiểu gõ theo ý muốn (dành cho nhà phát triển)
+* Dễ dàng gõ tiếng Anh lẫn trong văn bản tiếng Việt
 
 ## Hướng dẫn cài đặt
 
-### Chuẩn bị
+### Từ gói cài đặt cho các bản phân phối Linux thông dụng
+
+Đây là cách đơn giản nhất.
+
+* [Ubuntu](https://github.com/BoGoEngine/ibus-bogo-python/downloads)
+hoặc từ [ppa:ndtrung4419/bogo](https://launchpad.net/~ndtrung4419/+archive/bogo)
+* [Arch Linux](https://aur.archlinux.org/packages/bogo/) (đang cập nhật)
+
+### Từ mã nguồn
 
 IBus BoGo Engine được xây dựng dựa trên các thành phần sau, hãy chắc
 chắn rằng các thành phần này đã được cài trên máy của bạn nếu bạn cần
@@ -27,20 +36,12 @@ cài đặt từ mã nguồn:
 
 * ibus 1.4
 * python 2.7
-* python-support
 * python-gi
-* python-xlib
 * gir1.2-ibus-1.0 (gobject introspection data)
 
-### Từ mã nguồn
+Tải mã nguồn tại [đây](https://github.com/BoGoEngine/ibus-bogo-python/tags)
+và cài đặt như hướng dẫn tại [đây](https://github.com/BoGoEngine/ibus-bogo-python)
 
-Tải mã nguồn và cài đặt như hướng dẫn tại
-[đây](https://github.com/BoGoEngine/ibus-bogo-python/tree/new_engine)
-
-### Từ gói cho hệ điều hành
-
-* [Ubuntu]()
-* [Fedora]()
 
 ### Cấu hình sau khi cài đặt
 
@@ -51,10 +52,11 @@ file ~/.profile sau đó logout và login:
     export XMODIFIERS=@im=ibus
     export QT_IM_MODULE=xim
     
-## Bug report:
+## Thông báo vấn đề:
  
 Nếu bạn gặp bất cứ khó khăn gì hoặc có đề xuất về chức năng cho IBus
-BoGo Engine vui lòng gửi tại [bug tracker](https://github.com/BoGoEngine/ibus-bogo-python/issues) của nhóm:
+BoGo Engine xin hãy đừng ngần ngại chia sẻ với chúng tôi tại 
+[bug tracker](https://github.com/BoGoEngine/ibus-bogo-python/issues) của nhóm:
 
 [https://github.com/BoGoEngine/ibus-bogo-python/issues](https://github.com/BoGoEngine/ibus-bogo-python/issues)
 
