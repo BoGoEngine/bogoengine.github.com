@@ -5,9 +5,9 @@ tagline:
 ---
 {% include JB/setup %}
 
-Xin gửi đến các bạn sản phẩm chính thức IBus BoGo Engine
+Xin gửi đến các bạn sản phẩm test IBus BoGo Engine
 
-Version: 1.0
+Version: 0.1.0
 License: [GNU General Public License Verion 3](http://www.gnu.org/licenses/gpl-3.0.txt)
 
 ## Tính năng
@@ -35,7 +35,7 @@ cài đặt từ mã nguồn:
 ### Từ mã nguồn
 
 Tải mã nguồn và cài đặt như hướng dẫn tại
-[đây](https://github.com/BoGoEngine/ibus-bogo-python)
+[đây](https://github.com/BoGoEngine/ibus-bogo-python/tree/new_engine)
 
 ### Từ gói cho hệ điều hành
 
