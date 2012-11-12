@@ -13,7 +13,7 @@ License: [GNU General Public License Verion 3](http://www.gnu.org/licenses/gpl-3
 
 ## Tính năng
 
-* Kiểu gõ: Telex
+* Kiểu gõ: Telex, VNI
 * Bảng mã: Unicode
 * Loại bỏ hoàn toàn dấu gạch chân (preedit string) so với các bộ gõ Tiếng Việt dựa trên IBus khác
 * Hỗ trợ mở rộng các kiểu gõ theo ý muốn (dành cho nhà phát triển)
