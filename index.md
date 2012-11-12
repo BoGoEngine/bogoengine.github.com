@@ -68,7 +68,7 @@ BoGo Engine xin hãy đừng ngần ngại chia sẻ với chúng tôi tại
 
 Rất hoan nghênh các bạn đến với nhóm phát triển. Đây là nơi chúng tôi làm việc:
 
-[https://github.com/BoGoEngine]([https://github.com/BoGoEngine)
+[https://github.com/BoGoEngine](https://github.com/BoGoEngine)
     
 
 _Các bài cũ hơn_
