@@ -5,10 +5,15 @@ tagline:
 ---
 {% include JB/setup %}
 
-Nhóm phát triển xin trân trọng gửi đến các bạn sản phẩm IBus BoGo Engine
-phiên bản đầu tiên.
+# Thông báo
 
-Version: 0.1.0
+Phiên bản tiếp theo của *IBus BoGo Engine* sẽ được phát hành vào này 16/11/2012
+
+## Giới thiệu
+
+IBus BoGo Engine là phần mềm gõ tiếng Việt dành cho các distro
+GNU/Linux. IBus BoGo Engine là một *phần mềm tự do nguồn mở* (FOSS)
+
 License: [GNU General Public License Version 3](http://www.gnu.org/licenses/gpl-3.0.txt)
 
 ## Tính năng
