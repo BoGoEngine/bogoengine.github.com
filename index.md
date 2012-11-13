@@ -29,7 +29,8 @@ License: [GNU General Public License Version 3](http://www.gnu.org/licenses/gpl-
 * [Ubuntu](https://github.com/BoGoEngine/ibus-bogo-python/downloads)
 (hoặc thêm [ppa:ndtrung4419/bogo](https://launchpad.net/~ndtrung4419/+archive/bogo)
 và cài gói ibus-bogo)
-* [Arch Linux](https://aur.archlinux.org/packages/bogo/) (đang cập nhật)
+* [Arch Linux](https://aur.archlinux.org/packages/ibus-bogo/)
+* Fedora (Đang cập nhật)
 
 ### Từ mã nguồn
 
