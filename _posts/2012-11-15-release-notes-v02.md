@@ -40,7 +40,7 @@ Ví dụ:
 
     Để gõ chữ "variable"
     Cách gõ truyền thống: varriable
-    Cách gõ với IBus BoGo Engine: variable
+    Cách gõ với khi bật spellchecking: variable
     
 ## Download và cài đặt
 
