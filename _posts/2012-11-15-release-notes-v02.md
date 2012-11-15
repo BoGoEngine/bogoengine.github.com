@@ -10,10 +10,10 @@ tagline: Type with fun
 # Phát hành IBus Bogo Engine version 0.2
 
 Một tuần sau khi phát hành phiên bản đầu tiên (0.1.0), nhóm phát triển
-BoGoEngine xin chính thức giới ra mắt phiên bản tiếp theo (0.2) với
+BoGoEngine xin chính thức giới thiệu phiên bản tiếp theo (0.2) với
 nhiều cải tiến
 
-## Bugfixes
+## Lỗi được sửa
 - telex: Sửa tất cả các vấn đề liên quan đến phím 'w'
 - telex: Lỗi 'casse' -> 'cáe'
 - telex: Lỗi khi gõ 'nheechs', 'hueechs'
@@ -44,8 +44,40 @@ Ví dụ:
     
 ## Download và cài đặt
 
-[v0.2](https://github.com/downloads/BoGoEngine/ibus-bogo-python/ibus-bogo_0.2_all.deb)
+### Từ gói cài đặt cho các bản phân phối Linux thông dụng
 
-Thực hiện các bước như tại [hướng dẫn](https://github.com/BoGoEngine/ibus-bogo-python) và gõ lệnh sau:
+Đây là cách đơn giản nhất.
+
+* [Ubuntu](https://github.com/BoGoEngine/ibus-bogo-python/downloads)
+(hoặc thêm [ppa:ndtrung4419/bogo](https://launchpad.net/~ndtrung4419/+archive/bogo)
+và cài gói ibus-bogo)
+* [Arch Linux](https://aur.archlinux.org/packages/ibus-bogo/)
+* Fedora (Đang cập nhật)
+
+### Từ mã nguồn
+
+IBus BoGo Engine được xây dựng có sử dụng các thành phần sau, hãy chắc
+chắn rằng các thành phần này đã được cài trên máy nếu bạn cần cài đặt
+từ mã nguồn:
+
+* ibus 1.4
+* python 2.7
+* python-gi
+* gir1.2-ibus-1.0 (gobject introspection data)
+
+Tải mã nguồn tại đây [v0.2](https://github.com/downloads/BoGoEngine/ibus-bogo-python/ibus-bogo_0.2_all.deb)
+và cài đặt như hướng dẫn tại [đây](https://github.com/BoGoEngine/ibus-bogo-python)
+
+
+### Cấu hình sau khi cài đặt
+
+Để đảm bảo chương trình vận hành như ý muốn. Thêm các dòng sau vào
+file ~/.profile sau đó logout và login:
+    
+    export GTK_IM_MODULE=ibus
+    export XMODIFIERS=@im=ibus
+    export QT_IM_MODULE=xim
+
+Gõ lệnh sau nếu cài đặt từ sourcecode:
 
     sudo glib-compile-schemas /usr/share/glib-2.0/schemas/
