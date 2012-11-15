@@ -31,7 +31,7 @@ dựa theo từ điển tiếng Việt của Hồ Ngọc Đức.
 Người dùng có thể dùng thử cách gõ tiếng Anh mới của IBus BoGo
 Engine.  Để sử dụng tính năng này, gõ vào lệnh
 
-    $dconf-editor
+    $ dconf-editor
     
 sau đó chuyển giá trị của key */org/kgcd/ibus-bogo/spellchecking* trong
 dconf-editor thành *true*.
