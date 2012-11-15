@@ -45,7 +45,6 @@ Ví dụ:
 
 [v0.2](https://github.com/downloads/BoGoEngine/ibus-bogo-python/ibus-bogo_0.2_all.deb)
 
-Thực hiện các bước như tại (hướng dẫn)[https://github.com/BoGoEngine/ibus-bogo-python] và gõ lệnh sau:
+Thực hiện các bước như tại [hướng dẫn](https://github.com/BoGoEngine/ibus-bogo-python) và gõ lệnh sau:
 
-```
     sudo glib-compile-schemas /usr/share/glib-2.0/schemas/
