@@ -65,7 +65,7 @@ từ mã nguồn:
 * python-gi
 * gir1.2-ibus-1.0 (gobject introspection data)
 
-Tải mã nguồn tại đây [v0.2](https://github.com/downloads/BoGoEngine/ibus-bogo-python/ibus-bogo_0.2_all.deb)
+Tải mã nguồn tại đây [v0.2](https://github.com/BoGoEngine/ibus-bogo-python/tags)
 và cài đặt như hướng dẫn tại [đây](https://github.com/BoGoEngine/ibus-bogo-python)
 
 
@@ -78,6 +78,6 @@ file ~/.profile sau đó logout và login:
     export XMODIFIERS=@im=ibus
     export QT_IM_MODULE=xim
 
-Gõ lệnh sau nếu cài đặt từ sourcecode:
+Gõ lệnh sau nếu bạn chạy trực tiếp file main.py từ thư mục source code:
 
     sudo glib-compile-schemas /usr/share/glib-2.0/schemas/
