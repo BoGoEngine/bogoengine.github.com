@@ -7,7 +7,7 @@ tagline: Type with fun
 
 # Thông báo
 
-Phát hành IBus Bogo Engine v0.2 với nhiều cái tiến và tính năng mới.
+Phát hành _IBus Bogo Engine v0.2_ với nhiều cái tiến và tính năng mới.
 Chi tiết tại [đây](http://bogoengine.github.com/2012/11/15/release-notes-v02/).
 
 ## Giới thiệu

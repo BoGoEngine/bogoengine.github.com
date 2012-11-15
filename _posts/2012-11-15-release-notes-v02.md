@@ -4,6 +4,7 @@ title: "Release notes: v0.2"
 description: ""
 category:
 tags: [release]
+tagline: Type with fun
 ---
 {% include JB/setup %}
 # Phát hành IBus Bogo Engine version 0.2
