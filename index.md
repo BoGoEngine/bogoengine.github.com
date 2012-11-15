@@ -1,13 +1,14 @@
 ---
 layout: page
-title: Phát hành IBus BoGo Engine 0.1.0
-tagline: 
+title: IBus BoGo Engine
+tagline: Type with fun
 ---
 {% include JB/setup %}
 
 # Thông báo
 
-Phiên bản tiếp theo của *IBus BoGo Engine* sẽ được phát hành vào này 16/11/2012
+Phát hành IBus Bogo Engine v0.2 với nhiều cái tiến và tính năng mới.
+Chi tiết tại [đây](http://bogoengine.github.com/2012/11/15/release-notes-v02/).
 
 ## Giới thiệu
 
