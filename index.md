@@ -1,16 +1,16 @@
 ---
 layout: page
-title: IBus BoGo Engine
+title: IBus BoGo
 tagline: Type with fun
 ---
 {% include JB/setup %}
 
-# Thông báo
+### Thông báo
 
-Phát hành _IBus Bogo Engine v0.2_ với nhiều cái tiến và tính năng mới.
+Phát hành _IBus Bogo v0.2_ với nhiều cái tiến và tính năng mới.
 Chi tiết tại [đây](http://bogoengine.github.com/2012/11/15/release-notes-v02/).
 
-# Bộ gõ tiếng Việt BoGo cho IBus
+***
 
 **IBus BoGo** là một engine xử lý gõ tiếng Việt cho IBus, một phần mềm quản lý các bộ gõ phổ biến trong Linux.
 **IBus BoGo** được viết bằng ngôn ngữ Python và xử dụng engine xử lý
