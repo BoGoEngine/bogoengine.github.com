@@ -12,10 +12,13 @@ Chi tiết tại [đây](http://bogoengine.github.com/2012/11/15/release-notes-v
 
 ## Giới thiệu
 
-IBus BoGo Engine là phần mềm gõ tiếng Việt dành cho các distro
-GNU/Linux. IBus BoGo Engine là một *phần mềm tự do nguồn mở* (FOSS)
+**IBus BoGo** là một engine xử lý gõ tiếng Việt cho IBus, một phần mềm quản lý các bộ gõ phổ biến trong Linux.
+**IBus BoGo** được viết bằng ngôn ngữ Python và xử dụng engine xử lý
+tiếng Việt **BoGoEngine**.
 
-License: [GNU General Public License Version 3](http://www.gnu.org/licenses/gpl-3.0.txt)
+IBus BoGo là một *phần mềm tự do nguồn mở* (FOSS).
+
+Giấy phép phát hành: [GNU General Public License Version 3](http://www.gnu.org/licenses/gpl-3.0.txt)
 
 ## Tính năng
 
@@ -25,58 +28,13 @@ License: [GNU General Public License Version 3](http://www.gnu.org/licenses/gpl-
 * Hỗ trợ mở rộng các kiểu gõ theo ý muốn (dành cho nhà phát triển)
 * Dễ dàng gõ tiếng Anh lẫn trong văn bản tiếng Việt
 
-## Hướng dẫn cài đặt
+## Hướng dẫn nhanh
 
-
-### Từ gói cài đặt cho các bản phân phối Linux thông dụng
-
-Đây là cách đơn giản nhất.
-
-* [Ubuntu](https://github.com/BoGoEngine/ibus-bogo-python/downloads)
-(hoặc thêm [ppa:ndtrung4419/bogo](https://launchpad.net/~ndtrung4419/+archive/bogo)
-và cài gói ibus-bogo)
-* [Arch Linux](https://aur.archlinux.org/packages/ibus-bogo/)
-* Fedora (Đang cập nhật)
-
-### Từ mã nguồn
-
-IBus BoGo Engine được xây dựng có sử dụng các thành phần sau, hãy chắc
-chắn rằng các thành phần này đã được cài trên máy nếu bạn cần cài đặt
-từ mã nguồn:
-
-* ibus 1.4
-* python 2.7
-* python-gi
-* gir1.2-ibus-1.0 (gobject introspection data)
-
-Tải mã nguồn tại [đây](https://github.com/BoGoEngine/ibus-bogo-python/tags)
-và cài đặt như hướng dẫn tại [đây](https://github.com/BoGoEngine/ibus-bogo-python)
-
-
-### Cấu hình sau khi cài đặt
-
-Để đảm bảo chương trình vận hành như ý muốn. Thêm các dòng sau vào
-file ~/.profile sau đó logout và login:
-    
-    export GTK_IM_MODULE=ibus
-    export XMODIFIERS=@im=ibus
-    export QT_IM_MODULE=xim
-    
-## Thông báo vấn đề
- 
-Nếu bạn gặp bất cứ khó khăn gì hoặc có đề xuất về chức năng cho IBus
-BoGo Engine xin hãy đừng ngần ngại chia sẻ với chúng tôi tại 
-[bug tracker](https://github.com/BoGoEngine/ibus-bogo-python/issues) của nhóm:
-
-[https://github.com/BoGoEngine/ibus-bogo-python/issues](https://github.com/BoGoEngine/ibus-bogo-python/issues)
-
-
-## Tham gia phát triển
-
-Rất hoan nghênh các bạn đến với nhóm phát triển. Đây là nơi chúng tôi làm việc:
-
-[https://github.com/BoGoEngine](https://github.com/BoGoEngine)
-    
+1. [Cài đặt](https://github.com/BoGoEngine/ibus-bogo-python/wiki/C%C3%A0i-%C4%91%E1%BA%B7t-(Install\)) và sử dụng
+2. Chia sẻ cho người thân
+3. Nếu có câu hỏi, hãy trò chuyện với chúng tôi ở [mailing list của nhóm](bogoengine-dev@googlegroups.com)
+4. [Thông báo lỗi và đóng góp ý tưởng](https://github.com/BoGoEngine/ibus-bogo-python/issues?state=open)
+5. Fork, vọc code và [tham gia đóng góp](https://github.com/BoGoEngine/ibus-bogo-python/wiki/Tham-gia-d%E1%BB%B1-%C3%A1n-(Contribute\))
 
 _Các bài cũ hơn_
 
@@ -86,5 +44,3 @@ _Các bài cũ hơn_
     <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}
 </ul>
-
-
