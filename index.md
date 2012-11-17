@@ -14,11 +14,13 @@ Chi tiết tại [đây](http://bogoengine.github.com/2012/11/15/release-notes-v
 
 ## Giới thiệu
 
+
 **IBus BoGo** là một engine xử lý gõ tiếng Việt cho IBus, một phần mềm quản lý các bộ gõ phổ biến trong Linux.
 **IBus BoGo** được viết bằng ngôn ngữ Python và xử dụng engine xử lý
 tiếng Việt **BoGoEngine**.
 
 ## Hướng dẫn nhanh
+
 
 1. [Cài đặt](https://github.com/BoGoEngine/ibus-bogo-python/wiki/C%C3%A0i-%C4%91%E1%BA%B7t-%7C-Install) và sử dụng
 2. Chia sẻ cho người thân
@@ -27,6 +29,7 @@ tiếng Việt **BoGoEngine**.
 5. Fork, vọc code và [tham gia đóng góp](https://github.com/BoGoEngine/ibus-bogo-python/wiki/Tham-gia-d%E1%BB%B1-%C3%A1n-%7C-Contribute)
 
 ## Giấy phép xuất bản (License)
+
 
 **IBus BoGo** là phần mềm tự do nguồn mở.
 
@@ -37,10 +40,12 @@ Xem tệp *COPYING* để biết thêm chi tiết.
 
 ## Credits
 
+
 Bản quyền (C) năm 2012 bởi:
 
 * [Đàm Tiến Long](https://github.com/milkycoffee)
 * [Trung Ngo](https://github.com/lewtds)
+
 
 _Các bài cũ hơn_
 
