@@ -44,40 +44,6 @@ Ví dụ:
     
 ## Download và cài đặt
 
-### Từ gói cài đặt cho các bản phân phối Linux thông dụng
-
-Đây là cách đơn giản nhất.
-
-* [Ubuntu](https://github.com/BoGoEngine/ibus-bogo-python/downloads)
-(hoặc thêm [ppa:ndtrung4419/bogo](https://launchpad.net/~ndtrung4419/+archive/bogo)
-và cài gói ibus-bogo)
-* [Arch Linux](https://aur.archlinux.org/packages/ibus-bogo/)
-* Fedora (Đang cập nhật)
-
-### Từ mã nguồn
-
-IBus BoGo Engine được xây dựng có sử dụng các thành phần sau, hãy chắc
-chắn rằng các thành phần này đã được cài trên máy nếu bạn cần cài đặt
-từ mã nguồn:
-
-* ibus 1.4
-* python 2.7
-* python-gi
-* gir1.2-ibus-1.0 (gobject introspection data)
-
-Tải mã nguồn tại đây [v0.2](https://github.com/BoGoEngine/ibus-bogo-python/tags)
-và cài đặt như hướng dẫn tại [đây](https://github.com/BoGoEngine/ibus-bogo-python)
-
-
-### Cấu hình sau khi cài đặt
-
-Để đảm bảo chương trình vận hành như ý muốn. Thêm các dòng sau vào
-file ~/.profile sau đó logout và login:
-    
-    export GTK_IM_MODULE=ibus
-    export XMODIFIERS=@im=ibus
-    export QT_IM_MODULE=xim
-
-Gõ lệnh sau nếu bạn chạy trực tiếp file main.py từ thư mục source code:
-
-    sudo glib-compile-schemas /usr/share/glib-2.0/schemas/
+Việc [cài đặt](https://github.com/BoGoEngine/ibus-bogo-python/wiki/C%C3%A0i-%C4%91%E1%BA%B7t-%7C-Install) không thay đổi so với phiên bản cũ. Nếu bạn dùng Ubuntu
+thì chỉ cần chạy `sudo apt-get update && sudo apt-get upgrade` để cập
+nhật lên phiên bản mới.
