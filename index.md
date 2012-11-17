@@ -12,6 +12,8 @@ Chi tiết tại [đây](http://bogoengine.github.com/2012/11/15/release-notes-v
 
 ***
 
+## Giới thiệu
+
 **IBus BoGo** là một engine xử lý gõ tiếng Việt cho IBus, một phần mềm quản lý các bộ gõ phổ biến trong Linux.
 **IBus BoGo** được viết bằng ngôn ngữ Python và xử dụng engine xử lý
 tiếng Việt **BoGoEngine**.
