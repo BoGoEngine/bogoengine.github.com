@@ -6,7 +6,8 @@ if [ "$(id -u)" -ne 0 ]; then
 fi
 
 echo "Removing apt source entries..."
-rm /etc/apt/sources.list.d/ibus-bogo-unstable.list
+rm /etc/apt/sources.list.d/ibus-bogo-unstable.list 2> /dev/null
+rm /etc/apt/sources.list.d/ibus-bogo-stable.list 2> /dev/null
 
 echo "Removing our signing key..."
 apt-key del C0DAAD97
