@@ -1,0 +1,8 @@
+Origin: BoGo Development Team
+Label: ibus-bogo stable
+Suite: ibus-bogo-stable
+Codename: unstable
+Architectures: i386 amd64 source
+Components: universe
+Description: BoGo stable PPA
+SignWith: yes
