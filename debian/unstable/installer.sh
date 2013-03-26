@@ -13,6 +13,7 @@ fi
 echo "Removing legacy repos..."
 rm /etc/apt/sources.list.d/ndtrung4419-bogo-unstable-$codename.list 2> /dev/null
 rm /etc/apt/sources.list.d/ndtrung4419-bogo-$codename.list 2> /dev/null
+apt-get remove ibus-bogo
 
 echo "Writing apt source entries..."
 
