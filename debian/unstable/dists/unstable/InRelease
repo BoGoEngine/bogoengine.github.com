@@ -5,48 +5,48 @@ Origin: BoGo Development Team
 Label: ibus-bogo unstable
 Suite: ibus-bogo-unstable
 Codename: unstable
-Date: Tue, 26 Mar 2013 14:01:42 UTC
+Date: Tue, 26 Mar 2013 14:51:33 UTC
 Architectures: i386 amd64
 Components: universe
 Description: BoGo unstable PPA
 MD5Sum:
- 44adb78f4d6446f96e226f7cc401d3e4 954 universe/binary-i386/Packages
- 62c5c99514babda641e7afe16a02c61e 610 universe/binary-i386/Packages.gz
+ 3ba190dd5fc51fc05b30ef2ee8f87a10 954 universe/binary-i386/Packages
+ 13c38fbacb2ce8292032e98641312f0b 606 universe/binary-i386/Packages.gz
  1190d1f5add093e0b0ad07a0d73a0b99 154 universe/binary-i386/Release
- 44adb78f4d6446f96e226f7cc401d3e4 954 universe/binary-amd64/Packages
- 62c5c99514babda641e7afe16a02c61e 610 universe/binary-amd64/Packages.gz
+ 3ba190dd5fc51fc05b30ef2ee8f87a10 954 universe/binary-amd64/Packages
+ 13c38fbacb2ce8292032e98641312f0b 606 universe/binary-amd64/Packages.gz
  a6e56dfaedaf32add91a04acf03f797e 155 universe/binary-amd64/Release
- 073c26224f373142b5d31a9e31814db9 1088 universe/source/Sources
- 618cd8a4a934a0e1446f72480c1f9f3c 587 universe/source/Sources.gz
+ 096bb19de4be3b93056cd2f780de84ed 1088 universe/source/Sources
+ fd3a71c863e38e38b293856e2dfd7f61 587 universe/source/Sources.gz
  2398cb9080694ee6e6edb7df85abae95 156 universe/source/Release
 SHA1:
- 32c54e53daca5efc3f1999b0ed54cd616cf4702e 954 universe/binary-i386/Packages
- 61f8e89491d1a122de40b699754b1f3f15d79440 610 universe/binary-i386/Packages.gz
+ 3360b51f9c6656cdb087be40589adf7c2be31ef7 954 universe/binary-i386/Packages
+ fb878a9ef4a940bc2e72e6d6bb5f182bffca8cc8 606 universe/binary-i386/Packages.gz
  d6311cb9b451796e5727e4d249c8cf51f77289e0 154 universe/binary-i386/Release
- 32c54e53daca5efc3f1999b0ed54cd616cf4702e 954 universe/binary-amd64/Packages
- 61f8e89491d1a122de40b699754b1f3f15d79440 610 universe/binary-amd64/Packages.gz
+ 3360b51f9c6656cdb087be40589adf7c2be31ef7 954 universe/binary-amd64/Packages
+ fb878a9ef4a940bc2e72e6d6bb5f182bffca8cc8 606 universe/binary-amd64/Packages.gz
  757217b68b16f9f188d5f8a23083286ca7f749d8 155 universe/binary-amd64/Release
- ef2c9cf09051b2042c962048a203473e3d076b1d 1088 universe/source/Sources
- 5c5965c82b84227b3bd01a448ffed2abab102602 587 universe/source/Sources.gz
+ c8da3d4fb69f600e0c8b9ac2401263c787c8856a 1088 universe/source/Sources
+ 4a97b69d6b3d8c994951431a08cf33976ded0f02 587 universe/source/Sources.gz
  c4b7561660bbb5d7a1cd6809cfafe9598f31b0b2 156 universe/source/Release
 SHA256:
- bb50ef93d0c7c9389cf6a4b9452a64830c730badad6385aaad0d97dcf85bb3f4 954 universe/binary-i386/Packages
- 96af35d7d26e9d6e2057a20edce8d50bd8e0b6c74aa1fbc82baabecf9d155da7 610 universe/binary-i386/Packages.gz
+ 0b32a5466755b57da62d033578402ddd9f3ddc7ea677d5395f0d2513be7d042c 954 universe/binary-i386/Packages
+ 91a745765ecd33b2538a324ee11512d9c6a4135a1d79f1adda695bdb517187dd 606 universe/binary-i386/Packages.gz
  73e0781888622223fac28855c37383663f91fc59ef2768513ec9c3b6b1591ab1 154 universe/binary-i386/Release
- bb50ef93d0c7c9389cf6a4b9452a64830c730badad6385aaad0d97dcf85bb3f4 954 universe/binary-amd64/Packages
- 96af35d7d26e9d6e2057a20edce8d50bd8e0b6c74aa1fbc82baabecf9d155da7 610 universe/binary-amd64/Packages.gz
+ 0b32a5466755b57da62d033578402ddd9f3ddc7ea677d5395f0d2513be7d042c 954 universe/binary-amd64/Packages
+ 91a745765ecd33b2538a324ee11512d9c6a4135a1d79f1adda695bdb517187dd 606 universe/binary-amd64/Packages.gz
  fd1ab107df55c34dfaffabb8791b0207cf09adb5d4d93221000359fc45c8dbf7 155 universe/binary-amd64/Release
- ed49a65b15d3cb929d692ff88cc4e41f6d2ddb87527d4ddfdd755914af2494dd 1088 universe/source/Sources
- 3b14f182bb39670d790d2e343ba8f20ed6cccad96e2241088377414d244a2223 587 universe/source/Sources.gz
+ 77e81cc60e57f817e089a9ef4be70fc8e288543a06dc0b0665f2cbe2229d8ee9 1088 universe/source/Sources
+ 7a764ac5dfb347d736a1bb78d54932fc577873bea25fb0b93194d7ea3a97eee5 587 universe/source/Sources.gz
  cf3b74b6a814b5508f2f09fa9749acec6ffefc2466800f7d7511021a829d3fc7 156 universe/source/Release
 -----BEGIN PGP SIGNATURE-----
 Version: GnuPG v1.4.11 (GNU/Linux)
 
-iQEcBAEBAgAGBQJRUapGAAoJEOMYJmXA2q2X9cQH/2st0li7cGEa39ShbWPSGgyk
-KmhVOMxO/96rBFUiLP0nbkqxI8n6nFjQu/lkwsVaJq4dQ82GzFSx0gH1ayV8fg8J
-XaEyeV3HY1Lt7O0HOXfmrRkUfVUq1NFPq2DEsVL3773/k9v4H0UchAInUISnlF+Z
-1rXQ23RKLoJINVx6DYYfTqfPSEcKfhiTqpFGZdANmpwvW/si3QkGowngSvLscKTP
-exlWWHeVpFn4SCSgNQUa3eOaPBj1xfBf30Nl26LGP6rV6msu0+mKCW84WJaQJOcq
-G7sLkK4A9SL2KoubXwyABeobNvNjGrZQsJbBvyvMfe5Lr5jtWljeTkzqdlx5iIg=
-=Y9Qk
+iQEcBAEBAgAGBQJRUbX1AAoJEOMYJmXA2q2XZmIIAJc8zYSFMbVGAw12FqFwxl4x
+ad2VLFq9Pc/P81jehWOpIQT9Fh2MfBf5fTrg87/ejMqiP24IcxuN/BBl4bAVK4Xb
+xSbvfFa751eu0WfpZapMLPOHQPQOJMUAw+lChidcFzOnP/RtGjN1C36a74/pe56q
+6GbgIKiB3yiCnJAn9kBx7jY2u0kuqQLo+9TX9Ahzb+0g38x+dawvjNfJ8yaMBhma
+1lJ4tazl5QeA6NVvpKIh3kURswGozJnwlNo+yYh+hm8HeRZiCpGehHz8eMEjvMzk
+9y/Q6kZ3wYhJMJibi6J+4Qz0dFdULNuvSXTDVyHA+e7OVYs9Dvj12uuueskmDd4=
+=yBY5
 -----END PGP SIGNATURE-----
