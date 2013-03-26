@@ -1,0 +1,20 @@
+#!/bin/sh
+
+if [ "$(id -u)" -ne 0 ]; then
+	echo >&1 "ERROR: This command can only be used by root."
+	exit 1
+fi
+
+echo "Writing apt source entries..."
+
+echo "deb http://bogoengine.github.com/debian/unstable/ unstable universe
+deb-src http://bogoengine.github.com/debian/unstable/ unstable universe" > /etc/apt/sources.list.d/ibus-bogo-unstable.list
+
+echo "Adding our signing key..."
+apt-key adv --keyserver keyserver.ubuntu.com --recv-keys C0DAAD97
+
+echo "Updating the repository..."
+apt-get update 
+
+echo "Installing ibus-bogo..."
+apt-get install ibus-bogo
