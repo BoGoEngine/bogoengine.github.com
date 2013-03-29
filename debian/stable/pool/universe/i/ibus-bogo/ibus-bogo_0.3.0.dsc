@@ -14,20 +14,20 @@ Build-Depends: debhelper (>= 9.0.0), python3 (>= 3.2), cmake, pyside-tools, qt4-
 Package-List: 
  ibus-bogo deb misc optional
 Checksums-Sha1: 
- af6db0743d20714832de3911a60e709a437a3d5f 520490 ibus-bogo_0.3.0.tar.gz
+ 64dcbdeca5055a96b43d36908276db3e296e7adc 541442 ibus-bogo_0.3.0.tar.gz
 Checksums-Sha256: 
- b2b68d9ea174b466b1a4afb7bdd4598f7303c628d9dccdc1cf7c9d274a81094e 520490 ibus-bogo_0.3.0.tar.gz
+ e199636d9ed5f19a7046afefd272aaac36b7fd58a891427114b3df797ebb2574 541442 ibus-bogo_0.3.0.tar.gz
 Files: 
- ce4bd4bed184ab4206f54f946b836b98 520490 ibus-bogo_0.3.0.tar.gz
+ 12304ce4f4fc9bc5a4ff96e3c33f71f0 541442 ibus-bogo_0.3.0.tar.gz
 
 -----BEGIN PGP SIGNATURE-----
 Version: GnuPG v1.4.11 (GNU/Linux)
 
-iQEcBAEBAgAGBQJRVayaAAoJEOMYJmXA2q2XAtEH/RURuT+MvNBFtmzzhdZlF2IE
-ZEImrGDFH68i8M88pXqwHKfFDIzgkG51Z071WNZZ9uBq7RlRmJ7F2U0Gt+YVXQF0
-e4D1nSqXpqyzTPNYchcF3M8GaVcDPkyx2SPfcPbhZfA5wlsCOmUQU559dpjKvwhP
-ecM2NerYFVdgB60Yy+K424uDLNWIKyPCTAU89G7djk6fQdWa7WKC2KiGHzGxwzIx
-/+0x48b3q/IP3/kT/Op9U9GGww7xLk7juWSkfb3lnk65Zk9CCU1eWSBa0DAlqf7K
-eiVY9Y0npD/3cHqjkxgRXyml5hDwUga41cjZJkiaeT+Go51H2Aaw/pk+VeXFgtY=
-=V91t
+iQEcBAEBAgAGBQJRVbh6AAoJEOMYJmXA2q2XoeoH/ih2Lv2yuAl7+ZqKUHoFSpL7
+wHu0BL5JPSU6XZEmwxSOrDJ97W64RnAx76AbckVmEyoscBbwHDb4Zphn+zi64ITm
+X/evVd+t7O6JnMSKyEUkEJhqBu3jdyKYXdCgl5zID0eXQKXSEOwJJPodZF1QmvP7
+NSYAONmTVnyjSEvJ9hP2tacwmegHXRkAD/AV8Pvk2ceQmM4moSz8ayHnd10Ri6Jg
+pw02zYUzGABDuPVjifC/+B8NIFbOaEAVW54oT9OJpnE55Ig4hlUatIH045Cl2G5A
+NuE/x0cFp0XWyIYvPK0Axd6N4SW13kcsBbeAeudRQDg6h8Al94Yf0F4mTgVdE3E=
+=Mqrd
 -----END PGP SIGNATURE-----

@@ -2,7 +2,7 @@ Package: ibus-bogo
 Version: 0.3.0
 Architecture: all
 Maintainer: Trung Ngo <ndtrung4419@gmail.com>
-Installed-Size: 283
+Installed-Size: 284
 Depends: python3 (>= 3.1.3-13~), python3-gi, gir1.2-ibus-1.0, gir1.2-wnck-3.0, python3-pyside
 Conflicts: ibus-bogo-python, libbogo0, python-bogo
 Replaces: ibus-bogo-python, libbogo0, python-bogo
@@ -10,10 +10,10 @@ Homepage: http://bogoengine.github.com/
 Priority: optional
 Section: misc
 Filename: pool/universe/i/ibus-bogo/ibus-bogo_0.3.0_all.deb
-Size: 42472
-SHA256: d59369031ca36a4bbc52de13cdb29893bb40da59f74f88a7710cc502056730ef
-SHA1: f7ff8304d653bd241b2805e3418d24e48afd9a22
-MD5sum: efa95a02c8acb3e02df049f86f823992
+Size: 43182
+SHA256: 9e9f1db93746e60318d05755a46b49098a5e717e7022e4d39424a10cabe9fff6
+SHA1: 22e8facf5663ee6680b6d7518400a382eda4d318
+MD5sum: 5984e4b7578ca8dbd456a6bcb7d5fb15
 Description: BoGo engine for IBus
  IBus is an Intelligent Input Bus. It is a new input framework for Linux OS.
  It provides full featured and user friendly input method user interface.
