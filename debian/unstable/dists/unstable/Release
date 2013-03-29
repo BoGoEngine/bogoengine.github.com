@@ -2,37 +2,37 @@ Origin: BoGo Development Team
 Label: ibus-bogo unstable
 Suite: ibus-bogo-unstable
 Codename: unstable
-Date: Thu, 28 Mar 2013 05:48:33 UTC
+Date: Fri, 29 Mar 2013 15:55:52 UTC
 Architectures: i386 amd64
 Components: universe
 Description: BoGo unstable PPA
 MD5Sum:
- 8b4ea917fa68efdba878e48981702d26 954 universe/binary-i386/Packages
- 1eb1412f9a9978fbfbc6183af49b290c 606 universe/binary-i386/Packages.gz
+ a20dbe2b0abcaa821caa6f991e7868df 918 universe/binary-i386/Packages
+ 6139c530b54afb7ba8a6c0b658be70f4 589 universe/binary-i386/Packages.gz
  1190d1f5add093e0b0ad07a0d73a0b99 154 universe/binary-i386/Release
- 8b4ea917fa68efdba878e48981702d26 954 universe/binary-amd64/Packages
- 1eb1412f9a9978fbfbc6183af49b290c 606 universe/binary-amd64/Packages.gz
+ a20dbe2b0abcaa821caa6f991e7868df 918 universe/binary-amd64/Packages
+ 6139c530b54afb7ba8a6c0b658be70f4 589 universe/binary-amd64/Packages.gz
  a6e56dfaedaf32add91a04acf03f797e 155 universe/binary-amd64/Release
- c314ba1b8beeccec95d46d1474e4f7ea 1091 universe/source/Sources
- 34d4baddd63e0da834d1f18aa927e584 588 universe/source/Sources.gz
+ 04e74ddb186d040072cc4df369034ba5 965 universe/source/Sources
+ 39818ae7e9d898a1eb0fb6549d514b82 574 universe/source/Sources.gz
  2398cb9080694ee6e6edb7df85abae95 156 universe/source/Release
 SHA1:
- 7e1b40eb49887e2b2ee34046b7b723a48a156db8 954 universe/binary-i386/Packages
- c14add6a098e3bd96d4197314c9454885fdb2eca 606 universe/binary-i386/Packages.gz
+ 7e53ad920aa329efe264ae52b7cb471f117f0e05 918 universe/binary-i386/Packages
+ 51a2a0a12195f3a8b06f4e2bdf413169e8853ed3 589 universe/binary-i386/Packages.gz
  d6311cb9b451796e5727e4d249c8cf51f77289e0 154 universe/binary-i386/Release
- 7e1b40eb49887e2b2ee34046b7b723a48a156db8 954 universe/binary-amd64/Packages
- c14add6a098e3bd96d4197314c9454885fdb2eca 606 universe/binary-amd64/Packages.gz
+ 7e53ad920aa329efe264ae52b7cb471f117f0e05 918 universe/binary-amd64/Packages
+ 51a2a0a12195f3a8b06f4e2bdf413169e8853ed3 589 universe/binary-amd64/Packages.gz
  757217b68b16f9f188d5f8a23083286ca7f749d8 155 universe/binary-amd64/Release
- 0c39ded0cb485573df21bb42af9a72b4a2c45eb2 1091 universe/source/Sources
- c501aae9ce2cd66885e3c883fe4fef058be68d91 588 universe/source/Sources.gz
+ 41861788dc40c310db7824fab49fc5f707d8a667 965 universe/source/Sources
+ 47af435eb863f8afa019725dd56815fc54ee55a0 574 universe/source/Sources.gz
  c4b7561660bbb5d7a1cd6809cfafe9598f31b0b2 156 universe/source/Release
 SHA256:
- b8f978a27ed1ce033b54bfc02b84bf91aad70256fa9772fa636d88a650a1b9ad 954 universe/binary-i386/Packages
- 35e26cfdc717805cb0d7e29ca65721e269df2e6dd61d0b896a5e72e2e26e95bf 606 universe/binary-i386/Packages.gz
+ 8f3804b3df995392f09db00eb00d61f6e402205a40496cf2039ea4d85e7476a8 918 universe/binary-i386/Packages
+ 61958943505da5e4b57c3a1195e6e6126e3f42884421f633f614ccd0232cfdb6 589 universe/binary-i386/Packages.gz
  73e0781888622223fac28855c37383663f91fc59ef2768513ec9c3b6b1591ab1 154 universe/binary-i386/Release
- b8f978a27ed1ce033b54bfc02b84bf91aad70256fa9772fa636d88a650a1b9ad 954 universe/binary-amd64/Packages
- 35e26cfdc717805cb0d7e29ca65721e269df2e6dd61d0b896a5e72e2e26e95bf 606 universe/binary-amd64/Packages.gz
+ 8f3804b3df995392f09db00eb00d61f6e402205a40496cf2039ea4d85e7476a8 918 universe/binary-amd64/Packages
+ 61958943505da5e4b57c3a1195e6e6126e3f42884421f633f614ccd0232cfdb6 589 universe/binary-amd64/Packages.gz
  fd1ab107df55c34dfaffabb8791b0207cf09adb5d4d93221000359fc45c8dbf7 155 universe/binary-amd64/Release
- df47b47966bc9bb61b2eb3a024a36f6f5e73c6a95c5f6ca986f95c42dac56db0 1091 universe/source/Sources
- e2ccd2f3703d320d2ad050170947c2751751038c9afdbd23bb7893892cd9453f 588 universe/source/Sources.gz
+ 389c4dc1e98702d09634c85ce7ae05abdc04c6af28569a9679160614c85feadb 965 universe/source/Sources
+ 260325beb472f152dfc8ad9f39f9a106322f11646904bbab5355cdcc8d5e934b 574 universe/source/Sources.gz
  cf3b74b6a814b5508f2f09fa9749acec6ffefc2466800f7d7511021a829d3fc7 156 universe/source/Release
