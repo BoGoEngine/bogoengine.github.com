@@ -1,0 +1,52 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+Origin: BoGo Development Team
+Label: ibus-bogo stable
+Suite: ibus-bogo-stable
+Codename: unstable
+Date: Fri, 29 Mar 2013 15:01:23 UTC
+Architectures: i386 amd64
+Components: universe
+Description: BoGo stable PPA
+MD5Sum:
+ 8e4f5705ca943614393be630dbbfb6f7 918 universe/binary-i386/Packages
+ 30e48c1e718d426e7972959d0405608d 592 universe/binary-i386/Packages.gz
+ 7126e2f68f89b18839b3314dd806e549 148 universe/binary-i386/Release
+ 8e4f5705ca943614393be630dbbfb6f7 918 universe/binary-amd64/Packages
+ 30e48c1e718d426e7972959d0405608d 592 universe/binary-amd64/Packages.gz
+ 94c7ded8dfa32007aae5da30dfae2cf1 149 universe/binary-amd64/Release
+ 5bdd40c6c77270589d0059ee1d1eb529 962 universe/source/Sources
+ c042ae7cc950528ab134a103577e36d4 572 universe/source/Sources.gz
+ 3d6cfa02a6db61d5ca10c0ef04e2ec9d 150 universe/source/Release
+SHA1:
+ a1fd580dbed2600a18d2752a3e5423feacc70097 918 universe/binary-i386/Packages
+ 8bc038977a62bc6bfdc2a19349a3fc776572a0bd 592 universe/binary-i386/Packages.gz
+ 72f9e4e1ced526fbb3ce608941f73156dfdd967f 148 universe/binary-i386/Release
+ a1fd580dbed2600a18d2752a3e5423feacc70097 918 universe/binary-amd64/Packages
+ 8bc038977a62bc6bfdc2a19349a3fc776572a0bd 592 universe/binary-amd64/Packages.gz
+ 64bfd7f6e5eeb3e7be75e0e64d4f1674d29759c5 149 universe/binary-amd64/Release
+ 6b6b69d069174d8430fc3f70eb9113afcd5faec2 962 universe/source/Sources
+ 1d27870d647a0f9bd759e692ed9b602dda7e276d 572 universe/source/Sources.gz
+ e0912d52d1c6181357eb316e082813e4b80be8fd 150 universe/source/Release
+SHA256:
+ 1f5f4fa478cf82954651eb2eac25f26503ca37818ac42750dc9594da67598162 918 universe/binary-i386/Packages
+ dee1255e9f8ad5a567bbab5067774b61fbe1e09aba75f8b3820b49a11354fdf2 592 universe/binary-i386/Packages.gz
+ a39e5f81bc91b8c588d4de5f63cd139506b4ddfd031b8debb8a2b78503cd92c0 148 universe/binary-i386/Release
+ 1f5f4fa478cf82954651eb2eac25f26503ca37818ac42750dc9594da67598162 918 universe/binary-amd64/Packages
+ dee1255e9f8ad5a567bbab5067774b61fbe1e09aba75f8b3820b49a11354fdf2 592 universe/binary-amd64/Packages.gz
+ 71a17485c24e38097870159bb39a42614d9300673bccdab77cff1aa89252be20 149 universe/binary-amd64/Release
+ 753f46f7e35b85cc45ab3cfb89fb58ac0442d134639c3569075f328dc68ecd09 962 universe/source/Sources
+ 6b5cc9b6d05b918248c544835f65a81be4d3a8e78c0de23c31cbbcababcdcd48 572 universe/source/Sources.gz
+ a7648b73d01659f2a888fbd20dc3aa7753c5467ee6607472bf8ab40923c8caa8 150 universe/source/Release
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.11 (GNU/Linux)
+
+iQEcBAEBAgAGBQJRVazDAAoJEOMYJmXA2q2XUfsH/2RnhjAoFN9KAMOWdBkg6B5l
+1yWzxYK2LICRoDeV4bmKkGjObb4cohJndVw152lT4L/sYDkhuBgNATiQ71ad7x0R
+2aG64D+U0DnoetRCcfZW7sxRLiqiei/qLU2wjGuX4yqTzhyevVfMZU4bxFroWHSU
+i/m8nxBs42UJSFJqZdVDVxgcemTPhdflN0c91/fbYzkx/XJv/DYzx1ePNOiZor0T
+PE6qFXOOU9afDzaKaU69huItg5z9ij+JC5KEHCc/q+gWU48bHccXh7U/IsvTiL2m
+BEd0K8lYRKFoqncjzXSgxYuDvMlgQXMnyx5Lon/BidsdNkf7OZ0pozSG4xqmq7o=
+=x3RH
+-----END PGP SIGNATURE-----
