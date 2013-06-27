@@ -27,4 +27,4 @@ echo "Updating the repository..."
 apt-get update 
 
 echo "Installing ibus-bogo..."
-apt-get install ibus-bogo
+apt-get install ibus-bogo -y
