@@ -5,4 +5,3 @@ Codename: unstable
 Architectures: i386 amd64 source
 Components: universe
 Description: BoGo unstable PPA
-SignWith: yes
