@@ -20,12 +20,11 @@ echo "Writing apt source entries..."
 echo "deb http://bogoengine.github.com/debian/stable/ unstable universe
 deb-src http://bogoengine.github.com/debian/stable/ unstable universe" > /etc/apt/sources.list.d/ibus-bogo-stable.list
 
-#echo "Adding our signing key..."
-#apt-key adv --keyserver keyserver.ubuntu.com --recv-keys C0DAAD97
+echo "Adding our signing key..."
+apt-key adv --keyserver keyserver.ubuntu.com --recv-keys C0DAAD97
 
 echo "Updating the repository..."
 apt-get update 
 
-# Force yes because we are unsigned now...
 echo "Installing ibus-bogo..."
-apt-get install ibus-bogo --yes --force-yes
+apt-get install ibus-bogo -y
